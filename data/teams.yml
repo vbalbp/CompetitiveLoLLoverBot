@@ -1,0 +1,89 @@
+teams:
+  Team Liquid:
+    abbr: TL
+    league: LCS
+    region: NA
+  Papara SuperMassive:
+    abbr: SUP
+    league: TCL
+    region: TR
+  Legacy Esports:
+    abbr: LGC
+    league: OPL
+    region: OCE
+  MAD Lions:
+    abbr: MAD
+    league: LEC
+    region: EU
+  INTZ:
+    abbr: ITZ
+    league: CBLOL
+    region: BR
+  Unicorns of Love:
+    abbr: UOL
+    league: LCL
+    region: CIS
+  PSG Talon:
+    abbr: PSG
+    league: PCS
+    region: PCS
+  V3 Esports:
+    abbr: V3
+    league: LJL
+    region: JP
+  Rainbow7:
+    abbr: R7
+    league: LLA
+    region: LAT
+  LGD Gaming:
+    abbr: LGD
+    league: LPL
+    region: CN
+  G2 Esports:
+    abbr: G2
+    league: LEC
+    region: EU
+  Suning:
+    abbr: SN
+    league: LPL
+    region: CN
+  Machi Esports:
+    abbr: MCX
+    league: PCS
+    region: PCS
+  DAMWON Gaming:
+    abbr: DWG
+    league: LCK
+    region: KR
+  Rogue:
+    abbr: RGE
+    league: LEC
+    region: EU
+  JD Gaming:
+    abbr: JDG
+    league: LPL
+    region: CN
+  Gen.G:
+    abbr: GEN
+    league: LCK
+    region: KR
+  TSM:
+    abbr: TSM
+    league: LCS
+    region: NA
+  Fnatic:
+    abbr: FNC
+    league: LEC
+    region: EU
+  FlyQuest:
+    abbr: FLY
+    league: LCS
+    region: NA
+  DRX:
+    abbr: DRX
+    league: LCK
+    region: KR
+  Top Esports:
+    abbrs: TES
+    league: LPL
+    region: CN
